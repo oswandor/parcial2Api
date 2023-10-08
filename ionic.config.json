@@ -1,0 +1,7 @@
+{
+  "name": "parcial2Api",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
